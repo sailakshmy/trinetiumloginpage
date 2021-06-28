@@ -1,0 +1,24 @@
+.App {
+  color: #282c34;
+  text-align: center;
+}
+
+.App-header {
+  min-height: 50vh;
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.container{
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: row;
+}
+
+.credentiallist{
+  bottom: 0px
+}
+
